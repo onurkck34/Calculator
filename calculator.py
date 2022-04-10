@@ -16,3 +16,5 @@ class Matematik:
         return self.sayi1 / self.sayi2
     
 matematik = Matematik(2,78)
+matematik2 = Matematik(3,76)
+print("Toplam = " + str(matematik2.topla()))
