@@ -11,7 +11,8 @@ class Matematik:
     
     def carp(self):
         return self.sayi1 * self.sayi2
-    
+    def bol(self):
+        return self.sayi1 / self.sayi2    
 
     
 matematik = Matematik(2,78)
